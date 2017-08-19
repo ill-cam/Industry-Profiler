@@ -1,0 +1,11 @@
+name: County_Business_Patterns
+title: County_Business_Patterns
+account: ill-cam
+server: shinyapps.io
+appId: 206102
+bundleId: 946736
+url: https://ill-cam.shinyapps.io/County_Business_Patterns/
+when: 1503160525.76635
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.html|README.Rmd
